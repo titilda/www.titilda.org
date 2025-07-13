@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TiTilda",
+    "description": "",
+    "home_page_url": "https://www.titilda.org",
+    "feed_url": "https://www.titilda.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "TiTilda"
+    },
+    "items": [
+    ]
+}

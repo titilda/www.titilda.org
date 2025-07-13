@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.titilda.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.titilda.org/</loc>
+</url>
+<url>
+<loc>https://www.titilda.org/projects/</loc>
+<lastmod>2025-07-13T20:40:33+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.titilda.org/services/</loc>
+<lastmod>2025-07-13T20:49:14+02:00</lastmod>
+<image:image>
+<image:loc>https://www.titilda.org/media/posts/6/Screenshot-2025-07-13-at-20-47-05-TiTilda-Appunti.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
